@@ -1,0 +1,61 @@
+/* Variables de Color */
+:root {
+    --color-rojo: #ff0000;
+    --color-rojo-oscuro: #8b0000;
+    --color-rojo-medio: #a52a2a;
+    --color-rojo-claro: #ff6347;
+  
+    --color-naranja: #ffa500;
+    --color-naranja-oscuro: #ff8c00;
+    --color-naranja-medio: #ff7f50;
+    --color-naranja-claro: #ffcc00;
+  
+    --color-amarillo: #ffff00;
+    --color-amarillo-oscuro: #ffd700;
+    --color-amarillo-medio: #eec900;
+    --color-amarillo-claro: #ffffe0;
+  
+    --color-verde: #008000;
+    --color-verde-oscuro: #006400;
+    --color-verde-medio: #228b22;
+    --color-verde-claro: #00ff00;
+  
+    --color-azul: #0000ff;
+    --color-azul-oscuro: #00008b;
+    --color-azul-medio: #4169e1;
+    --color-azul-claro: #add8e6;
+  
+    --color-violeta: #800080;
+    --color-violeta-oscuro: #4b0082;
+    --color-violeta-medio: #9400d3;
+    --color-violeta-claro: #ee82ee;
+  
+    /* Escala de Negro */
+    --color-negro: #000;
+    --color-gris-oscuro: #333;
+    --color-gris-medio: #666;
+    --color-gris-claro: #999;
+  
+    /* Escala de Blanco */
+    --color-blanco: #fff;
+    --color-blanco-crema: #f5f5f5;
+    --color-blanco-humo: #f0f0f0;
+    --color-blanco-gainsboro: #dcdcdc;
+  
+    /* Con Transparencia */
+    --color-rojo-transparente: #7a7a7a80;
+    --color-azul-transparente: #7a7a7a4d;
+    --color-verde-transparente: #7a7a7a33;
+  }
+  
+  
+  
+  /* Variables de Tamaño de Letra */
+  :root {
+    --tamano-letra-pequeno: 14px;
+    --tamano-letra-normal: 16px;
+    --tamano-letra-mediano: 18px;
+    --tamano-letra-grande: 20px;
+    --tamano-letra-muygrande: 24px;
+  }
+  
