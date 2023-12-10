@@ -43,9 +43,9 @@
     --color-blanco-gainsboro: #dcdcdc;
   
     /* Con Transparencia */
-    --color-rojo-transparente: #7a7a7a80;
-    --color-azul-transparente: #7a7a7a4d;
-    --color-verde-transparente: #7a7a7a33;
+    --color-blanco-transparente: #7a7a7a80;
+    --color-gris-transparente: #7a7a7a4d;
+    --color-negro-transparente: #7a7a7a33;
   }
   
   
